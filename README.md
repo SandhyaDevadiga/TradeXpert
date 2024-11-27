@@ -31,6 +31,9 @@ Welcome to **TradeXpert**, an intuitive and powerful trading platform designed t
 
 ---
 
+#ScreenShots
+![Login](assets/my-image.png)
+
 ## 🚀 **How to Run the Project**  
 
 ### Prerequisites  
