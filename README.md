@@ -31,8 +31,12 @@ Welcome to **TradeXpert**, an intuitive and powerful trading platform designed t
 
 ---
 
-#ScreenShots
-![Login](assets/my-image.png)
+## Screenshots 📸
+- **Login Page**  -->  **SignUp page**   
+<div style="display: flex;">
+<img src="https://raw.githubusercontent.com/SandhyaDevadiga/TradeXpert/master/Screenshot%20(29).png" width="300" height="200" alt="login Page">
+<img src="https://raw.githubusercontent.com/SandhyaDevadiga/TradeXpert/master/Screenshot%20(30).png" width="300" height="200" alt="signup Page">
+</div>
 
 ## 🚀 **How to Run the Project**  
 
