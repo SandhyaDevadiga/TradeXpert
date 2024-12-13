@@ -21,7 +21,7 @@ Welcome to **TradeXpert**, an intuitive and powerful trading platform designed t
 ---
 
 ## 🚀 Live Demo  
-Check out the deployed website here: [HungryGo](https://tradexpert-sandhya.netlify.app/)
+Check out the deployed website here: [TradeXpert](https://tradexpert-sandhya.netlify.app/)
 
 ## 🌟 **Key Features**  
 
