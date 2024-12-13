@@ -5,7 +5,7 @@ Welcome to **TradeXpert**, an intuitive and powerful trading platform designed t
 
 ---
 
-## 🛠 **Tech Stack**  
+## 🛠 **Tech Stack** 
 
 ### Frontend:  
 - ⚛️ **React**: For a dynamic, responsive, and interactive user interface.  
@@ -19,6 +19,9 @@ Welcome to **TradeXpert**, an intuitive and powerful trading platform designed t
 - 🤖 **Gemini API**: Powers the chatbot with real-time solutions to your trading queries.  
 
 ---
+
+## 🚀 Live Demo  
+Check out the deployed website here: [HungryGo](https://tradexpert-sandhya.netlify.app/)
 
 ## 🌟 **Key Features**  
 
